@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/mo-mahboobian-08188271/" target="_blank">
+ <a href="https://www.linkedin.com/in/momahboobian/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
  <a href="https://moreel.me" target="blank">
