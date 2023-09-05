@@ -137,13 +137,13 @@ My expertise lies in building dynamic and user-friendly interfaces, as well as d
   <a href="https://github.com/momahboobian"><img alt="Mo Mahboobian's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=momahboobian&langs_count=8&layout=compact&theme=react&border_color=fff&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
-
+<!-- 
 <p align="center">
   <a href="https://github.com/momahboobian">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=momahboobian&theme=radical&border=fff&background=0D1117" alt="Mo Mahboobian's GitHub Contribution"/>
   </a>
 </p>
-
+-->
 <p align="center">
   <a href="https://github.com/momahboobian">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=momahboobian&theme=radical&border=fff&background=0D1117" alt="Mo Mahboobian's GitHub Contribution"/>
