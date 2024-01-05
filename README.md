@@ -73,6 +73,7 @@ My expertise lies in building dynamic and user-friendly interfaces, as well as d
 ![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&labelColor=black&logo=docker&logoColor=2CA5E0)
 ![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&labelColor=black&logo=github&logoColor=181717)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
@@ -96,7 +97,6 @@ My expertise lies in building dynamic and user-friendly interfaces, as well as d
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&labelColor=black&logo=graphql&logoColor=E10098)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&labelColor=black&logo=docker&logoColor=2CA5E0)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&labelColor=black&logo=kubernetes&logoColor=326CE5)
 
 <br/>
