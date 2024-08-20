@@ -5,7 +5,6 @@
 </samp>
 </h1>
 <h3 align="center"><a href="https://moreel.me">「  I am a Full-stack developer 」</a></h3>
-
 <p align="center"> 
    With a passion for creating innovative web and mobile apps
 </p>
