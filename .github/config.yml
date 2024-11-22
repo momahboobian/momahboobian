@@ -1,0 +1,13 @@
+# Configuration for welcome -
+
+# Configuration for new-issue-welcome -
+
+# Comment to be posted to on first time issues
+
+# Configuration for new-pr-welcome -
+
+# Comment to be posted to on PRs from first time contributors in your repository
+
+# Configuration for first-pr-merge -
+
+# Comment to be posted to on pull requests merged by a first time user
