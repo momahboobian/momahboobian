@@ -1,30 +1,28 @@
 <!-- Intro  -->
-<h1 align="center">
-<samp>&gt; Hi!, I am
-        <b>Mo Mahboobian</b>
-</samp>
-</h1>
-<h3 align="center"><a href="https://moreel.me">「  I am a Full-stack developer 」</a></h3>
+<div align="center">
+  <h1>
+    <samp>&gt; Hey there! 😊</samp>
+  </h1>
+  
+<h3 align="center"><a href="https://moreel.me">「  I am a Creative Full-Stack Engineer 」</a></h3>
 <p align="center"> 
-   With a passion for creating innovative web and mobile apps
+   With a Passion for Problem Solving
 </p>
-<p align="center">
- <a href="https://www.linkedin.com/in/momahboobian/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
- </a>
- <a href="https://moreel.me" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
- </a>
-</p>
+<p align="right">
+     <a href="https://www.linkedin.com/in/mo-mahboobian" target="blank">
+      <img src="assets/linkedIn-colour.png" alt="linkedin" width="80" />
+    </a>
+    <a href="https://moreel.me" target="blank">
+      <img src="assets/website-colour.png" alt="moreel.me" width="80" />
+    </a>
+  </p>
+  <img src="assets/banner.svg" alt="alsiam"/>
+</div>
+
 <br />
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=momahboobian.momahboobian&"  />
 </div>
-###
-
-<p align="center">
-  <a href="https://github.com/momahboobian"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F9D978&width=435&lines=Passionate+Software+Developer+%F0%9F%9A%80;Full-Stack+Enthusiast+%F0%9F%92%BB;Code+Lover+%F0%9F%A7%A1;Tech+Explorer+%F0%9F%8C%8C;Continuous+Learner+%F0%9F%93%9A&center=true&width=380&height=45"></a>
-</p>
 
 <!-- <a href="https://komarev.com/ghpvc/?username=momahboobian">
   <img align="right" src="https://komarev.com/ghpvc/?username=momahboobian&label=Visitors&color=orange" />
@@ -32,22 +30,24 @@
 
 <!-- About Section -->
 
-
 # 👨🏻‍💻&emsp;About me
 
+<p align="center">
+  <a href="https://github.com/momahboobian"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F9D978&width=435&lines=Passionate+Software+Developer+%F0%9F%9A%80;Full-Stack+Enthusiast+%F0%9F%92%BB;Code+Lover+%F0%9F%A7%A1;Tech+Explorer+%F0%9F%8C%8C;Continuous+Learner+%F0%9F%93%9A&center=true&width=380&height=45"></a>
+</p>
 <p>
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/>
  ❤️ &emsp; Love to writing code and learning new features <br/>
 
-I enjoy building scalable solutions and learning new technologies. I am a self-motivated and enthusiastic person who loves to work in a collaborative environment. <br/>
-My expertise lies in building dynamic and user-friendly interfaces, as well as developing robust back-end solutions. I thrive in collaborative environments and enjoy taking on new challenges to expand my skills and knowledge. Let's build something incredible together!
+I a Full-Stack JavaScript Software engineer specialising in React.Js and Next.Js. I build bullet proof online user experiences using TypeScript and Test Driven Development.
+At heart I’m a technical problem solver with a creatives eye. This passion for technology inspired me to dive deep into web development through intensive bootcamps, where I honed my craft and learnt modern frameworks and tools. As a life-long learner, to me, the ever evolving nature of the web is an rewarding place to work.
+I worked in both creative content and technical. This experience expanded my expertise beyond coding to encompass; system design, product-focused development, strategic planning, user experience design and agile project delivery.
 
 </p>
 
 ###
 
 ## 💻&emsp;Use to Code
-
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
@@ -92,71 +92,3 @@ My expertise lies in building dynamic and user-friendly interfaces, as well as d
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&labelColor=black&logo=kubernetes&logoColor=326CE5)
 
 <br/>
-
-<!-- <h3 align="left">Tech Stack</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" height="40" alt="sketch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-### -->
-<!-- 
-<a> 
-    <a href="https://github.com/momahboobian"><img alt="Mo Mahboobian's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=momahboobian&show_icons=true&count_private=true&theme=react&border_color=fff&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/momahboobian"><img alt="Mo Mahboobian's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=momahboobian&langs_count=8&layout=compact&theme=react&border_color=fff&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-<!-- 
-<p align="center">
-  <a href="https://github.com/momahboobian">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=momahboobian&theme=radical&border=fff&background=0D1117" alt="Mo Mahboobian's GitHub Contribution"/>
-  </a>
-</p>
--->
-<!-- 
-<p align="center">
-  <a href="https://github.com/momahboobian">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=momahboobian&theme=radical&border=fff&background=0D1117" alt="Mo Mahboobian's GitHub Contribution"/>
-  </a>
-</p>
-
-<!-- <h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=momahboobian&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-<p>
-that users love. I enjoy working on projects that have a positive impact on people's lives. I am a self-motivated, hardworking, and goal-oriented individual who is always looking for a challenge to enhance my skills and knowledge. I am a team player who is always willing to help others and share my knowledge with them. I am a fast learner who is always looking for new ways to improve my skills and knowledge. I am a team player who is always willing to help others and share my knowledge with them. I am a fast learner who is always looking for new ways to improve my skills and knowledge. I am a team player who is always willing to help others and share my knowledge with them. I am a fast learner who is always looking for new ways to improve my skills and knowledge. I am a team player who is always willing to help others and share my knowledge with them. I am a fast learner who is always looking for new ways to improve my skills and knowledge.
-</p>
-### -->
