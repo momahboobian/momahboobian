@@ -19,24 +19,16 @@
   <img src="assets/banner.svg" alt="alsiam"/>
 </div>
 
-<br />
-<div align="center">
+<div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=momahboobian.momahboobian&"  />
 </div>
-
-<!-- <a href="https://komarev.com/ghpvc/?username=momahboobian">
-  <img align="right" src="https://komarev.com/ghpvc/?username=momahboobian&label=Visitors&color=orange" />
-</a> -->
 
 <!-- About Section -->
 
 # 👨🏻‍💻&emsp;About me
 
-<p align="center">
-  <a href="https://github.com/momahboobian"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F9D978&width=435&lines=Passionate+Software+Developer+%F0%9F%9A%80;Full-Stack+Enthusiast+%F0%9F%92%BB;Code+Lover+%F0%9F%A7%A1;Tech+Explorer+%F0%9F%8C%8C;Continuous+Learner+%F0%9F%93%9A&center=true&width=380&height=45"></a>
-</p>
 <p>
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/>
+ ✌️ &emsp; Enjoy creating content and sharing knowledge <br/>
  ❤️ &emsp; Love to writing code and learning new features <br/>
 
 I a Full-Stack JavaScript Software engineer specialising in React.Js and Next.Js. I build bullet proof online user experiences using TypeScript and Test Driven Development.
@@ -46,6 +38,10 @@ I worked in both creative content and technical. This experience expanded my exp
 </p>
 
 ###
+
+<p align="center">
+  <a href="https://github.com/momahboobian"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F9D978&width=435&lines=Passionate+Software+Developer+%F0%9F%9A%80;Full-Stack+Enthusiast+%F0%9F%92%BB;Code+Lover+%F0%9F%A7%A1;Tech+Explorer+%F0%9F%8C%8C;Continuous+Learner+%F0%9F%93%9A&center=true&width=380&height=45"></a>
+</p>
 
 ## 💻&emsp;Use to Code
 
