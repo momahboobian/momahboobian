@@ -43,6 +43,7 @@ I worked in both creative content and technical. This experience expanded my exp
 <p align="center">
   <a href="https://github.com/momahboobian"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F9D978&width=435&lines=Passionate+Software+Developer+%F0%9F%9A%80;Full-Stack+Enthusiast+%F0%9F%92%BB;Code+Lover+%F0%9F%A7%A1;Tech+Explorer+%F0%9F%8C%8C;Continuous+Learner+%F0%9F%93%9A&center=true&width=380&height=45"></a>
 </p>
+<!--
 
 ## 💻&emsp;Use to Code
 
@@ -88,4 +89,4 @@ I worked in both creative content and technical. This experience expanded my exp
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&labelColor=black&logo=graphql&logoColor=E10098)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&labelColor=black&logo=kubernetes&logoColor=326CE5)
 
-<br/>
+<br/> -->
