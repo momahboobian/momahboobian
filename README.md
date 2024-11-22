@@ -27,10 +27,11 @@
 
 # 👨🏻‍💻&emsp;About me
 
-<p>
+<p style="font-size: 18px;">
  ✌️ &emsp; Enjoy creating content and sharing knowledge <br/>
  ❤️ &emsp; Love to writing code and learning new features <br/>
-
+</p>
+<p style="font-size: 16px;">
 I a Full-Stack JavaScript Software engineer specialising in React.Js and Next.Js. I build bullet proof online user experiences using TypeScript and Test Driven Development.
 At heart I’m a technical problem solver with a creatives eye. This passion for technology inspired me to dive deep into web development through intensive bootcamps, where I honed my craft and learnt modern frameworks and tools. As a life-long learner, to me, the ever evolving nature of the web is an rewarding place to work.
 I worked in both creative content and technical. This experience expanded my expertise beyond coding to encompass; system design, product-focused development, strategic planning, user experience design and agile project delivery.
