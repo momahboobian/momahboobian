@@ -4,18 +4,20 @@
     <samp>&gt; Hey there! 😊</samp>
   </h1>
   
-<h3 align="center"><a href="https://moreel.me">「  I am a Creative Full-Stack Engineer 」</a></h3>
-<p align="center"> 
-   With a Passion for Problem Solving
-</p>
-<p align="right">
-     <a href="https://www.linkedin.com/in/mo-mahboobian" target="blank">
+  <h3 align="center"><a href="https://moreel.me">「  I am a Creative Full-Stack Engineer 」</a></h3>
+  <p align="center"> 
+    With a Passion for Problem Solving
+  </p>
+
+  <p align="right">
+    <a href="https://www.linkedin.com/in/mo-mahboobian" target="blank">
       <img src="assets/linkedIn-colour.png" alt="linkedin" width="80" />
     </a>
     <a href="https://moreel.me" target="blank">
       <img src="assets/website-colour.png" alt="moreel.me" width="80" />
     </a>
   </p>
+
   <img src="assets/banner.svg" alt="alsiam" style="pointer-events: none;" />
 </div>
 
@@ -31,8 +33,9 @@
  ✌️ &emsp; Enjoy creating content and sharing knowledge <br/>
  ❤️ &emsp; Love to writing code and learning new features <br/>
 </p>
+
 <p style="font-size: 16px;">
-I a Full-Stack JavaScript Software engineer specialising in React.Js and Next.Js. I build bullet proof online user experiences using TypeScript and Test Driven Development.
+I am a Full-Stack JavaScript Software Developer and Video Engineer with a passion for exploring/learning new technologies and solving complex problems through strong communication and collaboration. I build bullet proof online user experiences using TypeScript and Test Driven Development.<br/>
 At heart I’m a technical problem solver with a creatives eye. This passion for technology inspired me to dive deep into web development through intensive bootcamps, where I honed my craft and learnt modern frameworks and tools. As a life-long learner, to me, the ever evolving nature of the web is an rewarding place to work.
 I worked in both creative content and technical. This experience expanded my expertise beyond coding to encompass; system design, product-focused development, strategic planning, user experience design and agile project delivery.
 
