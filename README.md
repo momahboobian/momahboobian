@@ -16,7 +16,7 @@
       <img src="assets/website-colour.png" alt="moreel.me" width="80" />
     </a>
   </p>
-  <img src="assets/banner.svg" alt="alsiam"/>
+  <img src="assets/banner.svg" alt="alsiam" style="pointer-events: none;" />
 </div>
 
 <div align="right">
