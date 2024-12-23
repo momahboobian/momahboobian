@@ -26,6 +26,7 @@
 </div>
 
 <!-- About Section -->
+
 # 👨🏻‍💻&emsp;About me
 
 <p style="font-size: 18px;">
