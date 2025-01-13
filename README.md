@@ -8,7 +8,6 @@
   <p align="center"> 
     With a Passion for Problem Solving
   </p>
-
   <p align="right">
     <a href="https://www.linkedin.com/in/mo-mahboobian" target="blank">
       <img src="assets/linkedIn-colour.png" alt="linkedin" width="80" />
